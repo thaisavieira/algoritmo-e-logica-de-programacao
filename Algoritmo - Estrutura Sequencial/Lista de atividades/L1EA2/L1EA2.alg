@@ -1,3 +1,6 @@
+
+
+
 Inicio
   Inteiro : QtdeAluMasc, QtdeAluFem;
   Real : PorcMasc, PorcFem;
