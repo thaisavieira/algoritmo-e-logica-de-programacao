@@ -1,3 +1,4 @@
+
 Inicio
   Inteiro : HHMMSS, TotSegundos;
   Leia(HHMMSS);
