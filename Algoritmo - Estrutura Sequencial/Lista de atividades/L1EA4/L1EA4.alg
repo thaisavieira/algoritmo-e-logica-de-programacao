@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 Inicio
   Real : QtdeHorTrab, QtdeHorExtra, SalMin, 
          ValHorTrab, ValHorExtra, SalFinal;  
