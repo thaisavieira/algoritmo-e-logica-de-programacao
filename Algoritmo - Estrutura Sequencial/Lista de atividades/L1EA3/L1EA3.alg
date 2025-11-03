@@ -1,3 +1,5 @@
+
+
 Inicio
    Real : CompTer, LargTer, ValPagar;
    Leia(CompTer, LargTer);
