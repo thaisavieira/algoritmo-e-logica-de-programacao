@@ -1,3 +1,5 @@
+
+
 Inicio
   Caracter : NumConta;
   Inteiro : LeitAnterior, LeitAtual, Consumo;
