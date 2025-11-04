@@ -1,3 +1,6 @@
+#include <stdio.h>
+
+
 Inicio
    Inteiro : Numero, NumInv, Alg1, Alg2, Alg3, Alg4;   
    Leia(Numero);
