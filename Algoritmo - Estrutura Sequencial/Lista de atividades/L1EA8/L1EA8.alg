@@ -1,3 +1,6 @@
+#include <stdio.h>
+
+
 Inicio
   Inteiro : HorarioEnt, HorarioSai, TempEmpresa, hhEnt, mmEnt, hhSai, mmSai, TotMin;  
   Leia(HorarioEnt, HorarioSai);
