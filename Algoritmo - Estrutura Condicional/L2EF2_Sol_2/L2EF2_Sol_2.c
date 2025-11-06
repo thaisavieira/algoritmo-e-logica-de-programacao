@@ -9,9 +9,9 @@ void main (void)
    scanf("%c", &TipoInvest);
    printf("Digite o valor da aplicação: ");
    scanf("%f",&ValAplic);
-   if (TipoInvest=="1")
+   if (TipoInvest=='1')
       ValFinal = 1.03*ValAplic;
    else
       ValFinal = 1.04 * ValAplic;
-   print("O valor final é: R$ %2.f \n", ValFinal);
+   printf("O valor final é: R$ %2.f \n", ValFinal);
 }
