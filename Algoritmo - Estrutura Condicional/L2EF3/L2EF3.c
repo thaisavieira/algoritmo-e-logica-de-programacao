@@ -9,9 +9,9 @@ void main (void)
    scanf("%c",&Sexo);
    printf("Digite a sua altura: ");
    scanf("%f",&Altura);
-   if (Sexo == 'M') or (Sexo == 'm')
+   if ((Sexo == 'M') || (Sexo == 'm'))
       PesoIdeal = (72.7*Altura) - 58;
-   if (Sexo == 'F') or (Sexo == 'f')
+   if ((Sexo == 'F') || (Sexo == 'f'))
       PesoIdeal = (62.1 * Altura) - 44.7;
    printf("O seu peso ideal é: %2.f \n", PesoIdeal);
 }
