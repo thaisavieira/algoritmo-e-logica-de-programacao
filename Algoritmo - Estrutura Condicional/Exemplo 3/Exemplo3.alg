@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 Inicio
     Real : Nota1, Nota2, Nota3, Nota4, Media;    
     Leia(Nota1, Nota2, Nota3, Nota4);
