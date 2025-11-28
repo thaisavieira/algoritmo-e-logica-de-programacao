@@ -1,3 +1,5 @@
+
+
 Inicio
     Inteiro : Idade, TotalDias, Cont;
 
